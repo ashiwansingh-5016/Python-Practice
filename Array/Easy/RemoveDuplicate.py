@@ -9,3 +9,6 @@ for j in range(1 , len(nums)):
 print(nums)
 
 print(i+1)
+
+
+
